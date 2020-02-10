@@ -37,4 +37,4 @@ try:
 
 except:
     traceback.print_exc()   #返回  try   except  异常处理返回的所有报错，包括代码问标以及数据导致的assert的断言问题
-    print('执行用例失败')  
+    print('执行用例失败')   

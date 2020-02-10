@@ -21,4 +21,4 @@ try:
     print('执行注册接口用例成功')
 except:
     traceback.print_exc()   #返回  try   except  异常处理返回的具体报错，即会返回代码错误，也可以返回数据!=assert导致的报错 
-    print('执行用例失败')
+    print('执行用例失败') 
