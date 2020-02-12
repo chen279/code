@@ -27,4 +27,4 @@ try:
     print('注册成功')
 except:
     traceback.print_exc()
-    print('注册失败')
+    print('注册失败') 
